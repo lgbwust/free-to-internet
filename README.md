@@ -7,5 +7,5 @@
  
 # Update 11.28
 * the step 3 was refused to access to the Internet, I try my best to solve it, and I success!!!
- * CMCC-EDU update its' ip address, so we need update the ip too. it's very simple to do this, you should only change the EDU ip 120.202.164.10 as 211.137.54.207. the ip may change.
+ * CMCC-EDU update its' ip address, so we need update the ip too. it's very simple to do this, you should only change the EDU ip `120.202.164.10` as `211.137.54.207`. the ip may change.
  * Let's enjoy the Internet onece again!
